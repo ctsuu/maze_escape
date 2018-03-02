@@ -27,6 +27,6 @@ Then, Exit location (5th row, 0 col).
     Clone this repo.
     Make a build directory: mkdir build && cd build
     Compile: cmake .. && make
-    Run it: ./ExtendedKF path/to/input.txt path/to/output.txt. You can find some sample inputs in 'data/'.
-        eg. ./ExtendedKF ../data/sample-laser-radar-measurement-data-1.txt output.txt
+    Run it: ./Escape path/to/input.txt path/to/output.txt. You can find some sample inputs in 'data/'.
+        eg. ./Escape ../data/input00.txt output.txt
 
